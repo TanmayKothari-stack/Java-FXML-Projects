@@ -1,0 +1,68 @@
+.main
+{
+    -fx-background-image: url("images/banner.jpg");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-color: lightgrey;
+}
+
+#loginBtn{
+    -fx-background-color: #726c6c;
+}
+
+.navBtn
+{
+    -fx-background-color: transparent;
+}
+
+.menu-button
+{
+    -fx-background-image: url("images/banner.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 35;
+    -fx-pref-height: 10;
+}
+
+.menu-button .arrow-button{
+
+    visibility: hidden;
+    -fx-padding: 0;
+
+}
+
+.menu-item{
+    -fx-pref-width: 100px;
+    -fx-cursor: hand;
+}
+
+.navBtn:hover{
+    -fx-background-color: pink;
+    -fx-text-fill: white;
+}
+
+.navBar
+{
+    -fx-background-color: ivory;
+}
+
+#getStartbtn
+{
+    -fx-background-color: deeppink;
+    -fx-text-fill: white;
+    -fx-background-radius: 20;
+}
+
+#bottomNavbar
+{
+    -fx-spacing: 20;
+    -fx-padding: 0 0 0 50px;
+}
+
+.bottomNavBtn
+{
+    -fx-spacing: 100;
+    -fx-background-color: rgba(0,0,0,0.6);
+    -fx-text-fill: white;
+}
