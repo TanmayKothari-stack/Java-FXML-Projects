@@ -1,0 +1,19 @@
+.main
+{
+    -fx-background-image: url("images/background.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+
+#submitBtn
+{
+    -fx-background-color: #2fda57;
+    -fx-text-fill: white ;
+    -fx-background-radius: 20;
+}
+
+#submitBtn:hover
+{
+    -fx-background-color: #26e252;
+}
