@@ -1,0 +1,9 @@
+#loginBtn
+{
+     -fx-background-radius: 50;
+}
+
+#loginBtn:hover{
+     -fx-background-color: #45a049;
+     -fx-text-fill: white;
+}
