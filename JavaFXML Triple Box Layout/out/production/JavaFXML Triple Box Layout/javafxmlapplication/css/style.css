@@ -1,0 +1,10 @@
+.navBtn
+{
+    -fx-background-color: transparent;
+
+}
+
+.navBtn:hover
+{
+    -fx-background-color: red;
+}
